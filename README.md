@@ -13,6 +13,9 @@ A personal finance application for tracking income and expenses in Nepali rupees
 - Firebase Authentication and Cloud Firestore
 - Provider state management and a repository-based data layer
 - English and Nepali localization resources
+- Light, dark, and system appearance modes with a saved device preference
+
+[View light and dark mode previews](https://github.com/bibasshrestha980-npl/expense_tracker#light-and-dark-mode)
 
 ## More projects
 
