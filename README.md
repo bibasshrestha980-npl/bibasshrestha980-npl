@@ -76,9 +76,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibasshrestha980-npl&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&icon_color=167d68&text_color=90a4ae" alt="Bibas's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=bibasshrestha980-npl&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&icon_color=167d68&text_color=90a4ae&cache_seconds=1800" alt="Bibas's GitHub Stats" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibasshrestha980-npl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&text_color=90a4ae" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibasshrestha980-npl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&text_color=90a4ae&cache_seconds=1800" alt="Top Languages" height="165" />
 
 <br/>
 
@@ -89,7 +89,7 @@
 ### 🟩 Contribution Activity Heatmap
 
 <a href="https://github.com/bibasshrestha980-npl">
-  <img src="https://ghchart.rshah.org/167d68/bibasshrestha980-npl" alt="Bibas Shrestha's GitHub Contribution Heatmap" width="100%" />
+  <img src="https://ghchart.rshah.org/167d68/bibasshrestha980-npl?v=2" alt="Bibas Shrestha's GitHub Contribution Heatmap" width="100%" />
 </a>
 
 </div>
