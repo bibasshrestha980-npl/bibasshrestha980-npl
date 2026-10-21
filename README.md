@@ -76,20 +76,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibasshrestha980-npl&v=20261020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&icon_color=167d68&text_color=90a4ae" alt="Bibas's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=bibasshrestha980-npl&v=20261021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&icon_color=167d68&text_color=90a4ae" alt="Bibas's GitHub Stats" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibasshrestha980-npl&v=20261020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&text_color=90a4ae" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibasshrestha980-npl&v=20261021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e191e&title_color=167d68&text_color=90a4ae" alt="Top Languages" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bibasshrestha980-npl&v=20261020&theme=tokyonight&hide_border=true&background=0e191e&ring=167d68&fire=167d68&currStreakLabel=167d68" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bibasshrestha980-npl&v=20261021&theme=tokyonight&hide_border=true&background=0e191e&ring=167d68&fire=167d68&currStreakLabel=167d68" alt="GitHub Streak" height="165" />
 
 <br/><br/>
 
 ### 🟩 Contribution Activity Heatmap
 
 <a href="https://github.com/bibasshrestha980-npl">
-  <img src="https://ghchart.rshah.org/167d68/bibasshrestha980-npl?v=20261020" alt="Bibas Shrestha's GitHub Contribution Heatmap" width="100%" />
+  <img src="https://ghchart.rshah.org/167d68/bibasshrestha980-npl?v=20261021" alt="Bibas Shrestha's GitHub Contribution Heatmap" width="100%" />
 </a>
 
 </div>
