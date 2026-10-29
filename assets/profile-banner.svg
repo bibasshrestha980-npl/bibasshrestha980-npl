@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101B2D"/>
+      <stop offset="1" stop-color="#163D43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="770" y1="50" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#65E6C2" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#4DB9D8" stop-opacity=".2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1045" cy="-5" r="208" fill="#65E6C2" fill-opacity=".08"/>
+  <circle cx="1110" cy="295" r="168" fill="#4DB9D8" fill-opacity=".08"/>
+  <path d="M770 258C858 122 950 110 1131 52" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M805 308C902 183 1001 164 1170 113" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="862" cy="174" r="5" fill="#65E6C2"/>
+  <circle cx="1001" cy="139" r="5" fill="#65E6C2"/>
+  <circle cx="1110" cy="59" r="5" fill="#65E6C2"/>
+  <text x="80" y="126" fill="#F4F8FC" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Bibas Shrestha</text>
+  <text x="82" y="178" fill="#B9CBD4" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="1">FLUTTER DEVELOPER  ·  DART  ·  FIREBASE</text>
+  <rect x="82" y="218" width="50" height="3" rx="2" fill="#65E6C2"/>
+  <text x="82" y="262" fill="#D5E1E7" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building thoughtful cross-platform apps from Kathmandu, Nepal</text>
+</svg>
